@@ -1,0 +1,31 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background: #ffffff;
+}
+
+p {
+    font-family: 'Roboto', cursive;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Roboto', cursive;
+    font-size: 20px;
+    width: 10%;
+    margin-top: 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 10px 10px 10px rgb(0, 0, 0);
+    width: 100%;
+}
